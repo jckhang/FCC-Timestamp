@@ -1,0 +1,26 @@
+{
+  "name": "timestamp-api",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp API Basejump: Timestamp microservice",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jckhang/FCC-Timestamp.git"
+  },
+  "keywords": [
+    "API",
+    "Timestamp"
+  ],
+  "author": "Yuxiang (jckhang)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jckhang/FCC-Timestamp/issues"
+  },
+  "homepage": "https://github.com/jckhang/FCC-Timestamp#readme"
+}
