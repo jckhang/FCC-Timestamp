@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "FreeCodeCamp API Basejump: Timestamp microservice",
   "main": "server.js",
-  "dependencies": {},
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "moment": "^2.11.0"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
