@@ -1,4 +1,3 @@
-
 #API Basejump: Timestamp Microservice for FCC
 
 Heroku app: http://timestamp-api-fcc.herokuapp.com

@@ -3,7 +3,6 @@
 // call the packages we need
 var express    = require('express');        // call express
 var app        = express();                 // define our app using express
-var bodyParser = require('body-parser');
 var routes = require('./app/routes/index.js');
 var api = require('./app/api/timestamp.js');
 
